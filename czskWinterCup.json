@@ -1,6 +1,6 @@
 {
 	"Name": "CZ/SK Winter Cup #1",
-	"Version": 1731954949,
+	"Version": 1731959658,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1889,7 +1889,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				10
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1905,10 +1905,7 @@
 					]
 				},
 				"Med-Kit": {
-					"Addons": [
-						2,
-						11
-					]
+					"Addons": []
 				},
 				"Toolbox": {
 					"Addons": []
