@@ -1,6 +1,6 @@
 {
 	"Name": "CZ/SK Winter Cup #1",
-	"Version": 1731960294,
+	"Version": 1733254270,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,6 +11,7 @@
 				"7",
 				"258",
 				"11",
+				"13",
 				"14",
 				"16",
 				"17",
@@ -83,6 +84,7 @@
 				"173",
 				"175",
 				"178",
+				"183",
 				"264",
 				"265",
 				"256",
@@ -856,10 +858,7 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163",
-				"213"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
@@ -1250,7 +1249,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"8"
 			],
 			"BalanceTiers": [
 				0
